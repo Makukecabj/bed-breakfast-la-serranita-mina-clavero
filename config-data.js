@@ -1,0 +1,457 @@
+window.__CONFIG = {
+  "business": {
+    "name": "Bed & Breakfast La Serranita MIna Clavero",
+    "short_name": "bed-breakfast-la-serranita-mina-clavero",
+    "tagline": "Bed & Breakfast La Serranita MIna Clavero - Córdoba",
+    "description": "Habitaciones cómodas y buena onda en Bed & Breakfast La Serranita MIna Clavero, Córdoba.",
+    "category": "Hospedaje",
+    "followers": 0
+  },
+  "hero": {
+    "video": "videos/city-video.mp4",
+    "poster": "fotos/foto-01.webp",
+    "eyebrow": "Córdoba · Av. San Martín 1589",
+    "title_line1": "Viví",
+    "title_em": "bed-breakfast-la-serranita-mina-clavero",
+    "title_line2": "desde acá",
+    "subtitle": "Habitaciones limpias, pileta, parrilla y buena onda."
+  },
+  "location": {
+    "address": "Av. San Martín 1589, X5889 Mina Clavero, Córdoba",
+    "district": "Córdoba",
+    "city": "Córdoba",
+    "province": "",
+    "country": "Argentina",
+    "destination_type": "city",
+    "map_query": "Av. San Martín 1589, X5889 Mina Clavero, Córdoba, Córdoba",
+    "map_embed": "https://maps.google.com/maps?q=Av.+San+Mart%C3%ADn+1589%2C+X5889+Mina+Clavero%2C+C%C3%B3rdoba%2C+C%C3%B3rdoba&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "description": "Córdoba. Cerca de los mejores puntos turísticos.",
+    "video": "videos/city-video.mp4"
+  },
+  "contact": {
+    "whatsapp": "https://wa.me/5491160025969",
+    "phone": "+5491160025969",
+    "email": ""
+  },
+  "social": {
+    "instagram": "https://www.google.com/maps/place/Bed+%26+Breakfast+La+Serranita+MIna+Clavero/data=!4m11!3m10!1s0x942d26627638f417:0xb6b9c7c754cd9bf6!5m3!1s2026-10-26!4m1!1i2!8m2!3d-31.7285258!4d-65.0045523!16s%2Fg%2F11bbrjr6k7!19sChIJF_Q4dmImLZQR9pvNVMfHubY?authuser=0&hl=es&g_ep=EgoyMDI2MTAxMy4wIJJjKgBIAVAD&rclk=1",
+    "place_url": "https://www.google.com/maps/place/Bed+%26+Breakfast+La+Serranita+MIna+Clavero/data=!4m11!3m10!1s0x942d26627638f417:0xb6b9c7c754cd9bf6!5m3!1s2026-10-26!4m1!1i2!8m2!3d-31.7285258!4d-65.0045523!16s%2Fg%2F11bbrjr6k7!19sChIJF_Q4dmImLZQR9pvNVMfHubY?authuser=0&hl=es&g_ep=EgoyMDI2MTAxMy4wIJJjKgBIAVAD&rclk=1",
+    "website": "",
+    "facebook": "",
+    "tiktok": ""
+  },
+  "about": {
+    "eyebrow": "Nuestra historia",
+    "title": "Un poco de Bed & Breakfast La Serranita MIna Clavero.",
+    "paragraphs": [
+      "Bed & Breakfast La Serranita MIna Clavero está ubicado en Córdoba, en una zona tranquila y céntrica. Contamos con habitaciones limpias y equipadas, espacios comunes amplios, pileta y parrilla. Un lugar ideal para descansar después de recorrer."
+    ],
+    "photos": [
+      {
+        "src": "fotos/foto-02.webp",
+        "alt": "Interior del hostel"
+      },
+      {
+        "src": "fotos/foto-03.webp",
+        "alt": "Espacios comunes"
+      }
+    ]
+  },
+  "trust_bar": [
+    "Respondemos al toque por WhatsApp",
+    "Reservá directo, sin comisión ni sorpresas",
+    "Atención como en casa, posta"
+  ],
+  "amenities": [
+    {
+      "key": "bed",
+      "title": "Para dormir bien",
+      "description": "Colchones que hacen que no quieras levantarte.",
+      "icon": "bed"
+    },
+    {
+      "key": "wifi",
+      "title": "WiFi libre",
+      "description": "Sin límite, sin contraseña rara, conectate y listo.",
+      "icon": "wifi"
+    },
+    {
+      "key": "pin",
+      "title": "Zona céntrica",
+      "description": "Restaurantes, bares y todo a pocas cuadras.",
+      "icon": "pin"
+    }
+  ],
+  "testimonials": [
+    {
+      "author": "Federico T.",
+      "rating": 4,
+      "text": "Hermosa experiencia. Cómodo, bien ubicado y con una atención que se nota hecha con cariño."
+    },
+    {
+      "author": "Camila D.",
+      "rating": 5,
+      "text": "Viajaba sola y me sentí súper segura. Conocí gente linda y disfruté cada momento."
+    },
+    {
+      "author": "Martín G.",
+      "rating": 5,
+      "text": "Fuimos con amigos y quedamos encantados. Limpio, cómodo y la onda del lugar espectacular."
+    },
+    {
+      "author": "Rocío B.",
+      "rating": 5,
+      "text": "Todo perfecto: la limpieza, la atención y las recomendaciones de la gente del lugar. Diez puntos."
+    }
+  ],
+  "testimonials_meta": {
+    "source": "demo"
+  },
+  "gallery": {
+    "images": [
+      {
+        "src": "fotos/foto-01.webp",
+        "alt": "Vista del alojamiento"
+      },
+      {
+        "src": "fotos/foto-02.webp",
+        "alt": "Interior del hostel"
+      },
+      {
+        "src": "fotos/foto-03.webp",
+        "alt": "Espacios comunes"
+      },
+      {
+        "src": "fotos/foto-04.webp",
+        "alt": "Zona de descanso"
+      },
+      {
+        "src": "fotos/foto-05.webp",
+        "alt": "Pileta y jardín"
+      },
+      {
+        "src": "fotos/foto-06.webp",
+        "alt": "Cocina del hostel"
+      },
+      {
+        "src": "fotos/foto-07.webp",
+        "alt": "Habitaciones"
+      },
+      {
+        "src": "fotos/foto-08.webp",
+        "alt": "Terraza"
+      },
+      {
+        "src": "fotos/foto-09.webp",
+        "alt": "Entrada principal"
+      },
+      {
+        "src": "fotos/foto-10.webp",
+        "alt": "Áreas verdes"
+      },
+      {
+        "src": "fotos/foto-11.webp",
+        "alt": "Comedor"
+      },
+      {
+        "src": "fotos/foto-12.webp",
+        "alt": "Living común"
+      }
+    ],
+    "videos": []
+  },
+  "pricing": {
+    "eyebrow": "Precios",
+    "amount": "Consultar",
+    "period": "SEGÚN TEMPORADA",
+    "title": "Escribinos y te enviamos los precios actualizados según fechas.",
+    "cta_text": "Consultar precios"
+  },
+  "faq": [
+    {
+      "question": "¿Se puede cancelar la reserva?",
+      "answer": "Somos flexibles, escribinos con tiempo y lo resolvemos."
+    },
+    {
+      "question": "¿Hay cocina para usar?",
+      "answer": "Sí, cocina completa para que te armes lo que quieras."
+    },
+    {
+      "question": "¿Tienen WiFi?",
+      "answer": "Sí, WiFi gratis en todo el lugar. Subí las fotos sin problema."
+    },
+    {
+      "question": "¿La zona es segura?",
+      "answer": "Sí, es una zona tranquila. Los viajeros la recomiendan."
+    },
+    {
+      "question": "¿Está cerca del centro?",
+      "answer": "Escribinos y te confirmamos la distancia exacta y cómo llegar desde el terminal o el aeropuerto."
+    }
+  ],
+  "footer": {
+    "description": "Bed & Breakfast La Serranita MIna Clavero",
+    "copyright": "© 2026 Bed & Breakfast La Serranita MIna Clavero. Todos los derechos reservados.",
+    "made_by": "Sitio hecho por Aizly"
+  },
+  "i18n": {
+    "en": {
+      "business": {
+        "name": "Bed & Breakfast La Serranita MIna Clavero",
+        "short_name": "bed-breakfast-la-serranita-mina-clavero",
+        "tagline": "Bed & Breakfast La Serranita MIna Clavero - Accommodation",
+        "description": "Bed & Breakfast La Serranita MIna Clavero: pool, BBQ, WiFi and the best location in Córdoba.",
+        "category": "Accommodation"
+      },
+      "hero": {
+        "video": "videos/city-video.mp4",
+        "poster": "fotos/foto-01.webp",
+        "eyebrow": "Córdoba · Av. San Martín 1589",
+        "title_line1": "Welcome to",
+        "title_em": "bed-breakfast-la-serranita-mina-clavero",
+        "title_line2": "",
+        "subtitle": "Your Córdoba hideaway after a day of exploring."
+      },
+      "about": {
+        "eyebrow": "Everything about us",
+        "title": "Bed & Breakfast La Serranita MIna Clavero, everything you need to know.",
+        "paragraphs": [
+          "At Bed & Breakfast La Serranita MIna Clavero we love welcoming travelers from all over the world. We have everything you need: WiFi, pool, BBQ, kitchen and a top location in Córdoba. Drop us a message!"
+        ],
+        "photos": [
+          {
+            "src": "fotos/foto-02.webp",
+            "alt": "Interior del hostel"
+          },
+          {
+            "src": "fotos/foto-03.webp",
+            "alt": "Espacios comunes"
+          }
+        ]
+      },
+      "location": {
+        "description": "Córdoba. The ideal location for your trip."
+      },
+      "gallery": {
+        "images": [
+          {
+            "src": "fotos/foto-01.webp",
+            "alt": "View of the property"
+          },
+          {
+            "src": "fotos/foto-02.webp",
+            "alt": "Inside the hostel"
+          },
+          {
+            "src": "fotos/foto-03.webp",
+            "alt": "Common areas"
+          },
+          {
+            "src": "fotos/foto-04.webp",
+            "alt": "Relaxation area"
+          },
+          {
+            "src": "fotos/foto-05.webp",
+            "alt": "Pool and garden"
+          },
+          {
+            "src": "fotos/foto-06.webp",
+            "alt": "Hostel kitchen"
+          },
+          {
+            "src": "fotos/foto-07.webp",
+            "alt": "Rooms"
+          },
+          {
+            "src": "fotos/foto-08.webp",
+            "alt": "Terrace"
+          },
+          {
+            "src": "fotos/foto-09.webp",
+            "alt": "Main entrance"
+          },
+          {
+            "src": "fotos/foto-10.webp",
+            "alt": "Green areas"
+          },
+          {
+            "src": "fotos/foto-11.webp",
+            "alt": "Dining room"
+          },
+          {
+            "src": "fotos/foto-12.webp",
+            "alt": "Common lounge"
+          }
+        ]
+      },
+      "pricing": {
+        "eyebrow": "Prices",
+        "amount": "Ask us",
+        "period": "Varies by season",
+        "title": "Message us for updated prices based on your dates.",
+        "cta_text": "Check prices"
+      },
+      "faq": [
+        {
+          "question": "Is there parking?",
+          "answer": "Yes, we have free parking on the property."
+        },
+        {
+          "question": "Can I smoke?",
+          "answer": "In outdoor areas, yes. Not inside the building."
+        },
+        {
+          "question": "How do I book?",
+          "answer": "Send us a WhatsApp or email and we'll confirm right away. Easy as that."
+        },
+        {
+          "question": "Is there heating?",
+          "answer": "Yes, we keep it warm in winter. Don't worry about the cold."
+        },
+        {
+          "question": "Is it close to downtown?",
+          "answer": "Message us and we'll confirm the exact distance and how to get here from the bus station or airport."
+        }
+      ],
+      "trust_bar": [
+        "Quick answers whenever you need",
+        "No middlemen, no surprises",
+        "We've been travelers too, we get it"
+      ],
+      "amenities": [
+        {
+          "title": "Comfortable rooms",
+          "description": "Everything you need to rest after a day of exploring.",
+          "icon": "bed"
+        },
+        {
+          "title": "Free WiFi",
+          "description": "Internet everywhere on the property.",
+          "icon": "wifi"
+        },
+        {
+          "title": "Great location",
+          "description": "Steps away from everything you need.",
+          "icon": "pin"
+        }
+      ],
+      "testimonials": [
+        {
+          "author": "Sofia R.",
+          "rating": 5,
+          "text": "The best choice of our whole trip. Spotless and the staff make you feel so welcome."
+        },
+        {
+          "author": "Peter D.",
+          "rating": 5,
+          "text": "Perfect spot to unwind. Quiet, clean, with lovely shared spaces to meet travelers."
+        },
+        {
+          "author": "Michael B.",
+          "rating": 4,
+          "text": "Wonderful experience. Comfortable, well located, and attention given with real care."
+        },
+        {
+          "author": "Lucas P.",
+          "rating": 4,
+          "text": "Great value and personalized attention you don't find anywhere else."
+        }
+      ],
+      "footer": {
+        "description": "Bed & Breakfast La Serranita MIna Clavero",
+        "copyright": "© 2026 Bed & Breakfast La Serranita MIna Clavero. All rights reserved.",
+        "made_by": "Site by Aizly"
+      }
+    }
+  },
+  "schema_ld": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "LodgingBusiness",
+        "name": "Bed & Breakfast La Serranita MIna Clavero",
+        "description": "Bed & Breakfast La Serranita MIna Clavero: pileta, parrilla, WiFi y la mejor ubicación en Córdoba.",
+        "url": "",
+        "telephone": "+5491160025969",
+        "email": "",
+        "image": "",
+        "sameAs": [
+          "https://www.google.com/maps/place/Bed+%26+Breakfast+La+Serranita+MIna+Clavero/data=!4m11!3m10!1s0x942d26627638f417:0xb6b9c7c754cd9bf6!5m3!1s2026-10-26!4m1!1i2!8m2!3d-31.7285258!4d-65.0045523!16s%2Fg%2F11bbrjr6k7!19sChIJF_Q4dmImLZQR9pvNVMfHubY?authuser=0&hl=es&g_ep=EgoyMDI2MTAxMy4wIJJjKgBIAVAD&rclk=1"
+        ],
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Av. San Martín 1589, X5889 Mina Clavero, Córdoba",
+          "addressLocality": "Córdoba",
+          "addressCountry": "AR"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": -31.7276378,
+          "longitude": -65.0043417
+        },
+        "amenityFeature": [
+          {
+            "@type": "LocationFeatureSpecification",
+            "name": "Para dormir bien",
+            "value": true
+          },
+          {
+            "@type": "LocationFeatureSpecification",
+            "name": "WiFi libre",
+            "value": true
+          },
+          {
+            "@type": "LocationFeatureSpecification",
+            "name": "Zona céntrica",
+            "value": true
+          }
+        ]
+      },
+      {
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "¿Se puede cancelar la reserva?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Somos flexibles, escribinos con tiempo y lo resolvemos."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Hay cocina para usar?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Sí, cocina completa para que te armes lo que quieras."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Tienen WiFi?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Sí, WiFi gratis en todo el lugar. Subí las fotos sin problema."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿La zona es segura?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Sí, es una zona tranquila. Los viajeros la recomiendan."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Está cerca del centro?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Escribinos y te confirmamos la distancia exacta y cómo llegar desde el terminal o el aeropuerto."
+            }
+          }
+        ]
+      }
+    ]
+  }
+};

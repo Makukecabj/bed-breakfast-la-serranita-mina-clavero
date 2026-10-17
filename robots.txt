@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bed-breakfast-la-serranita-mina-clavero.vercel.app/sitemap.xml
